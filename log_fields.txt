@@ -1,0 +1,19 @@
+Description of Fields:
+
+Field 1: User Address
+IP or domain name of the user accessing the site.
+
+Field 2: Date/Time
+Date and time the user accessed the site.
+
+Field 3: GMT Offset
+Number of hours from GMT (if this is +0000 it is logged in GMT time).
+
+Field 4: URL
+The address user tried to get response from
+
+Field 5: Returned status code
+The return code indicates whether or not the action was successful etc.
+
+Field 6: extra int
+* for extra task
